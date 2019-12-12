@@ -2,7 +2,7 @@ def find_fuel(mass):
     return int(mass)//3 - 2
 
 
-f = open('inputfile', 'r')
+f = open('puzzleinput.txt', 'r')
 fuel = 0
 total = 0
 

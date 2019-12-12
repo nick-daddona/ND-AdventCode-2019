@@ -1,4 +1,4 @@
-f = open('inputfile', 'r')
+f = open('puzzleinput.txt', 'r')
 
 intcodes = f.read().split(',')
 intcodes = [int(i) for i in intcodes]

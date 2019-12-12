@@ -1,4 +1,4 @@
-f = open('inputfile', 'r')
+f = open('puzzleinput.txt', 'r')
 
 searching = True
 noun = 0

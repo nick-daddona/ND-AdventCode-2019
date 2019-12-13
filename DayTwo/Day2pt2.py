@@ -34,7 +34,5 @@ while searching:
         print("19690720 found")
         print(100*noun+verb)
         searching = False
-    else:
-        print("Noun and Verb do not result in 19690720")
 
 f.close()
